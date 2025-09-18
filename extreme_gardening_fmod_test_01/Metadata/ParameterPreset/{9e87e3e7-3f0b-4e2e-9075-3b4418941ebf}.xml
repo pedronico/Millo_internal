@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{9e87e3e7-3f0b-4e2e-9075-3b4418941ebf}">
+		<property name="name">
+			<value>WHERE ARE YOU</value>
+		</property>
+		<relationship name="folder">
+			<destination>{db740a4e-35a0-45a7-9c95-7d80421eae08}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{5942bf65-fe5b-4488-9b36-76fb7fea1888}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{5942bf65-fe5b-4488-9b36-76fb7fea1888}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>HUB FAST</value>
+			<value>METAL FAST</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

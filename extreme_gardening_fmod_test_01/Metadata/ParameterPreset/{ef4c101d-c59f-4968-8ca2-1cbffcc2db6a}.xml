@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{ef4c101d-c59f-4968-8ca2-1cbffcc2db6a}">
+		<property name="name">
+			<value>H_fx_flange</value>
+		</property>
+		<relationship name="folder">
+			<destination>{db740a4e-35a0-45a7-9c95-7d80421eae08}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{1651ce5e-12f9-41e3-ab79-dc463c01db71}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{1651ce5e-12f9-41e3-ab79-dc463c01db71}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

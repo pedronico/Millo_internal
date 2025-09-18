@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{50b0bfe1-e55e-4fc8-8940-1ee39ab8083a}">
+		<property name="name">
+			<value>H_glitchy_density</value>
+		</property>
+		<relationship name="folder">
+			<destination>{db740a4e-35a0-45a7-9c95-7d80421eae08}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d732677b-3dc7-44ff-9c51-f6f334852e18}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d732677b-3dc7-44ff-9c51-f6f334852e18}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>HI</value>
+			<value>MID</value>
+			<value>LOW</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+	</object>
+</objects>
