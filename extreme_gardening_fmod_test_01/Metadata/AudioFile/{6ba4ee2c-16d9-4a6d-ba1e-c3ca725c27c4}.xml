@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{6ba4ee2c-16d9-4a6d-ba1e-c3ca725c27c4}">
 		<property name="assetPath">
-			<value>ui_sfx_metal_to_hub_80bpm_oneshot.wav</value>
+			<value>SFX/UI/ui_sfx_metal_to_hub_80bpm_oneshot.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

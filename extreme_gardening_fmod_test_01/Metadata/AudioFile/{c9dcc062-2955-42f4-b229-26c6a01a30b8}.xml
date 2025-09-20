@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c9dcc062-2955-42f4-b229-26c6a01a30b8}">
+		<property name="assetPath">
+			<value>SFX/UI/sfx_ui_empty_audio_80bpm_4B.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>12</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2b849a34-70d5-4e3c-8ee4-eb1448afd1c2}</destination>
+		</relationship>
+	</object>
+</objects>

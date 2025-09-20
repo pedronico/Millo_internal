@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{c8398059-e975-47b0-bc33-0958c6c63068}">
 		<property name="assetPath">
-			<value>OST/hubfast/ost_hubfast_beat_80bpm_loop(01).wav</value>
+			<value>OST/HUB_FAST/ost_hubfast_beat_80bpm_loop(01).wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

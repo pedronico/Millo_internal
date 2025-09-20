@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{b4b6db2d-05ba-4f24-8e0f-f11505766ba5}">
 		<property name="assetPath">
-			<value>OST/hubfast/ost_hubfast_noise_glitchy_80bpm_oneshot(07).wav</value>
+			<value>OST/HUB_FAST/ost_hubfast_noise_glitchy_80bpm_oneshot(07).wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

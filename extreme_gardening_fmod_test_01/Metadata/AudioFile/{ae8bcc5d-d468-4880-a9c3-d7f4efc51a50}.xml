@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{ae8bcc5d-d468-4880-a9c3-d7f4efc51a50}">
 		<property name="assetPath">
-			<value>OST/hubfast/ost_hubfast_noise_comby_80bpm_oneshot(13).wav</value>
+			<value>OST/HUB_FAST/ost_hubfast_noise_comby_80bpm_oneshot(13).wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{54a5e97f-9efd-4eac-b903-06f2bf3fa08f}">
+		<property name="assetPath">
+			<value>OST/METAL_SLOW/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2b849a34-70d5-4e3c-8ee4-eb1448afd1c2}</destination>
+		</relationship>
+	</object>
+</objects>
