@@ -5,7 +5,7 @@
 			<value>Blue Light 1</value>
 		</property>
 		<property name="name">
-			<value>ost_hub_fast_bass</value>
+			<value>ost_hubfast_bass</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

@@ -85,7 +85,7 @@
 	</object>
 	<object class="GroupTrack" id="{04aa3ef2-b5c2-4d29-8818-b204ad787afb}">
 		<relationship name="modules">
-			<destination>{72a9f062-bd30-4d56-9ebc-1a9ad27cf062}</destination>
+			<destination>{61785f91-7609-411d-9e2c-e2249cf85ef7}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{63cf4899-257b-441a-a273-46fe234062a5}</destination>
@@ -143,7 +143,6 @@
 			<destination>{3eb2b40a-c0d6-4521-8089-61497953cb64}</destination>
 			<destination>{5c05ac27-4333-44ef-89bb-91f30e1addb4}</destination>
 			<destination>{32fecee0-43c7-406f-81d0-9b7cfa74c24c}</destination>
-			<destination>{72a9f062-bd30-4d56-9ebc-1a9ad27cf062}</destination>
 			<destination>{6b8de147-202d-441a-9b14-76f8e206c059}</destination>
 			<destination>{6a1a580f-4ea9-4f4c-9386-113ee057ea2a}</destination>
 			<destination>{c750a965-4425-416c-9bd9-0b0548c00ead}</destination>
@@ -152,6 +151,7 @@
 			<destination>{5ecca4b3-656a-46d2-99d0-10bbee4d3761}</destination>
 			<destination>{c2ba6471-f139-46d2-928e-339dc88a0f90}</destination>
 			<destination>{8f9ea62e-4874-4b67-86b9-228f5cdf5446}</destination>
+			<destination>{61785f91-7609-411d-9e2c-e2249cf85ef7}</destination>
 		</relationship>
 		<relationship name="markers">
 			<destination>{c595b9bf-20af-43dc-a0c9-03120188c25d}</destination>
@@ -228,20 +228,23 @@
 			<destination>{1e52ed2b-3998-43fb-9d7d-461fbfef1eec}</destination>
 		</relationship>
 	</object>
-	<object class="EventSound" id="{72a9f062-bd30-4d56-9ebc-1a9ad27cf062}">
+	<object class="EventSound" id="{61785f91-7609-411d-9e2c-e2249cf85ef7}">
 		<property name="length">
 			<value>136</value>
 		</property>
 		<relationship name="event">
-			<destination>{316c3b69-890d-4114-920d-a3fa4ee50f45}</destination>
+			<destination>{77e3c019-c6de-4f82-9781-a3649040aba0}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{63cf4899-257b-441a-a273-46fe234062a5}">
 		<property name="color">
 			<value>Magenta</value>
 		</property>
+		<property name="volume">
+			<value>-4.5</value>
+		</property>
 		<property name="name">
-			<value>Guitar</value>
+			<value>Synth</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{2109c58e-a4c1-4edb-8245-68ad9cb5feb3}</destination>
