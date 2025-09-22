@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{1901065f-2c6a-41f1-877c-2cae3ca928aa}">
 		<property name="assetPath">
-			<value>ost_metalslow_80bpm_loop(02).wav</value>
+			<value>OST/METAL_SLOW/ost_metalslow_80bpm_loop(02).wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
