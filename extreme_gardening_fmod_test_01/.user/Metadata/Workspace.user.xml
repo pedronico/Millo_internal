@@ -12,6 +12,9 @@
 		<property name="openWindows">
 			<value>Event Editor 1</value>
 		</property>
+		<property name="windowLayout">
+			<value>AAAAAQAAABwARQB2AGUAbgB0ACAARQBkAGkAdABvAHIAIAAxAAAAQgHZ0MsAAwAAAAAAAP////kAAAv/AAAGjwAABMAAAAJYAAAI2wAAA/sAAAAAAgAAAAwAAAAAAAAAABcAAAv/AAAGjw==</value>
+		</property>
 		<relationship name="activePlatform">
 			<destination>{de4c3b24-57b8-4a4f-9190-7f850c33b615}</destination>
 		</relationship>

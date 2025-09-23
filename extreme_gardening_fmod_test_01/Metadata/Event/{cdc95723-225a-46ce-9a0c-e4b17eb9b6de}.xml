@@ -1098,6 +1098,9 @@
 		</property>
 	</object>
 	<object class="EventMixerGroup" id="{56096539-fd63-4b6c-9336-534200158160}">
+		<property name="volume">
+			<value>1</value>
+		</property>
 		<property name="name">
 			<value>TRANS HUB to M</value>
 		</property>
@@ -1339,6 +1342,9 @@
 		</property>
 	</object>
 	<object class="EventMixerGroup" id="{b9ac3449-8b65-49b0-8f36-aa4db1de54f9}">
+		<property name="volume">
+			<value>1</value>
+		</property>
 		<property name="name">
 			<value>TRANS M to HUB</value>
 		</property>

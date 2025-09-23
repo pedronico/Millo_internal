@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{e7145a82-8082-43d1-9f14-be579bbd9bdc}">
 		<property name="assetPath">
-			<value>ost_metalmid_88bpm_loop.wav</value>
+			<value>OST/METAL MID/ost_metalmid_88bpm_loop.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>76.875</value>
+			<value>87.272729166666664</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{2b849a34-70d5-4e3c-8ee4-eb1448afd1c2}</destination>

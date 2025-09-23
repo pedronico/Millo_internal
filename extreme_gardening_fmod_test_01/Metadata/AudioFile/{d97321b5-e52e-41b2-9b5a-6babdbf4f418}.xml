@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{d97321b5-e52e-41b2-9b5a-6babdbf4f418}">
 		<property name="assetPath">
-			<value>ost_metalmid_intro_88bpm_oneshot.wav</value>
+			<value>OST/METAL MID/ost_metalmid_intro_88bpm_oneshot.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
