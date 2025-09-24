@@ -16,14 +16,15 @@
 			<value>2</value>
 		</property>
 		<property name="maximum">
-			<value>5</value>
+			<value>6</value>
 		</property>
 		<property name="enumerationLabels">
-			<value>HUB FAST</value>
-			<value>METAL FAST</value>
+			<value>HUB MINIMAL</value>
 			<value>HUB SLOW</value>
-			<value>METAL SLOW</value>
+			<value>HUB FAST</value>
 			<value>METAL MID</value>
+			<value>METAL FAST</value>
+			<value>METAL SLOW</value>
 		</property>
 		<property name="initialValue">
 			<value>0</value>
