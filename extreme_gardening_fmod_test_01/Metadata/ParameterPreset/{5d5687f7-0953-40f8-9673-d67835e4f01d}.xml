@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{5d5687f7-0953-40f8-9673-d67835e4f01d}">
+		<property name="name">
+			<value>metal_mid_part_played</value>
+		</property>
+		<relationship name="folder">
+			<destination>{db740a4e-35a0-45a7-9c95-7d80421eae08}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{cd669ea5-83ba-4f54-83ef-22e64cdd60c7}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{cd669ea5-83ba-4f54-83ef-22e64cdd60c7}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>A</value>
+			<value>B</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

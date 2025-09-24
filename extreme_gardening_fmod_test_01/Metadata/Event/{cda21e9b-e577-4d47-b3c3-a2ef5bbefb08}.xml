@@ -321,6 +321,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{1e52ed2b-3998-43fb-9d7d-461fbfef1eec}">
+		<property name="color">
+			<value>Green</value>
+		</property>
 		<property name="name">
 			<value>mixdown-all-but-beats</value>
 		</property>
@@ -427,8 +430,11 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{168caa68-df14-4d20-acb8-cf549295854c}">
+		<property name="color">
+			<value>Cyan Light 2</value>
+		</property>
 		<property name="name">
-			<value>flange_on</value>
+			<value>fx_flange_on</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{6361a07d-5c2c-46a9-8ab3-a7e2305cd8b4}</destination>
@@ -497,8 +503,11 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{7dc394ca-7b9b-42a4-ad40-195a55292140}">
+		<property name="color">
+			<value>Cyan Light 2</value>
+		</property>
 		<property name="name">
-			<value>flange_off</value>
+			<value>fx_flange_off</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{b4630d0e-7cd7-47e6-87f9-b4dd57684f65}</destination>
