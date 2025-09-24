@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{2429a952-e237-4558-91af-3ee0dc8d7f17}">
+		<property name="assetPath">
+			<value>OST/METAL MID/ost_metalmid_88bpm_loop(02).wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>51.136375000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2b849a34-70d5-4e3c-8ee4-eb1448afd1c2}</destination>
+		</relationship>
+	</object>
+</objects>
