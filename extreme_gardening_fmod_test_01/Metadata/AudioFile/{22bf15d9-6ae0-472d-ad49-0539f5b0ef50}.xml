@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{22bf15d9-6ae0-472d-ad49-0539f5b0ef50}">
 		<property name="assetPath">
-			<value>ost_hubminimal_pad_noisenic_80_oneshot.wav</value>
+			<value>OST/HUB_MINIMAL/ost_hubminimal_pad_noisenic_80_oneshot.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
