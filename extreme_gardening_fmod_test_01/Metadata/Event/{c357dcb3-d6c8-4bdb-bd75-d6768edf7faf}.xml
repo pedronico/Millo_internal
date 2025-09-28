@@ -167,14 +167,11 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{e4c66ec5-f69a-411d-8301-c4c9632bc11b}">
-		<property name="isAsync">
-			<value>true</value>
-		</property>
 		<property name="start">
 			<value>36</value>
 		</property>
 		<property name="length">
-			<value>83.478250000000003</value>
+			<value>78.260874999999999</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{de8ec2f7-1742-475f-855f-d358f15c0d12}</destination>

@@ -891,6 +891,9 @@
 		<property name="length">
 			<value>2</value>
 		</property>
+		<property name="volume">
+			<value>-2</value>
+		</property>
 		<relationship name="event">
 			<destination>{d488b4fd-2799-486a-8035-d1e7221ffbff}</destination>
 		</relationship>
@@ -1015,6 +1018,9 @@
 		</property>
 		<property name="length">
 			<value>2</value>
+		</property>
+		<property name="volume">
+			<value>-2</value>
 		</property>
 		<relationship name="event">
 			<destination>{cda21e9b-e577-4d47-b3c3-a2ef5bbefb08}</destination>
