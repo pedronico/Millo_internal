@@ -1243,8 +1243,9 @@
 		<property name="length">
 			<value>2</value>
 		</property>
+		<property name="name" />
 		<property name="volume">
-			<value>3</value>
+			<value>6.5</value>
 		</property>
 		<relationship name="event">
 			<destination>{354873cc-a72b-4a33-9c01-22ed903544ad}</destination>
