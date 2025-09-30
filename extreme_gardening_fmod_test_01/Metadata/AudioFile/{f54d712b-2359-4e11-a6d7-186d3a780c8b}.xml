@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{f54d712b-2359-4e11-a6d7-186d3a780c8b}">
 		<property name="assetPath">
-			<value>OST/HUB DOOM/ost_hubdoom_80bpm_loop.wav</value>
+			<value>OST/HUB_DOOM/ost_hubdoom_80bpm_loop.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
