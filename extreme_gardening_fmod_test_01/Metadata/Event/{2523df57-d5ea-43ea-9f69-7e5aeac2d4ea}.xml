@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{2523df57-d5ea-43ea-9f69-7e5aeac2d4ea}">
 		<property name="name">
-			<value>OST-PLAY-THIS! 2</value>
+			<value>OST-PLAY-THIS!</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -44,6 +44,9 @@
 		</relationship>
 		<relationship name="parameters">
 			<destination>{c4cbff6c-2b30-4d66-8d58-55d1b4ef74a7}</destination>
+		</relationship>
+		<relationship name="banks">
+			<destination>{9b2bc774-9d36-4622-80ac-0d7920595dd8}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{57bf3610-4634-46cf-89d6-ea8ce5125215}">
@@ -1348,6 +1351,9 @@
 		<property name="length">
 			<value>2</value>
 		</property>
+		<property name="maxVoices">
+			<value>1</value>
+		</property>
 		<property name="volume">
 			<value>-2</value>
 		</property>
@@ -1361,6 +1367,9 @@
 		</property>
 		<property name="length">
 			<value>2</value>
+		</property>
+		<property name="maxVoices">
+			<value>1</value>
 		</property>
 		<relationship name="event">
 			<destination>{35da46fe-d66a-483e-9a43-0078fe59a709}</destination>
@@ -1396,8 +1405,11 @@
 		<property name="length">
 			<value>2</value>
 		</property>
+		<property name="maxVoices">
+			<value>1</value>
+		</property>
 		<property name="volume">
-			<value>-3</value>
+			<value>-3.9000001</value>
 		</property>
 		<relationship name="event">
 			<destination>{cda21e9b-e577-4d47-b3c3-a2ef5bbefb08}</destination>
@@ -1459,8 +1471,8 @@
 		<property name="length">
 			<value>2</value>
 		</property>
-		<property name="volume">
-			<value>1.5</value>
+		<property name="maxVoices">
+			<value>1</value>
 		</property>
 		<relationship name="event">
 			<destination>{d5d209d1-a0e7-4c17-abaf-ece47854fcd7}</destination>
@@ -1512,6 +1524,9 @@
 		<property name="length">
 			<value>2</value>
 		</property>
+		<property name="maxVoices">
+			<value>1</value>
+		</property>
 		<property name="volume">
 			<value>0.5</value>
 		</property>
@@ -1538,6 +1553,9 @@
 		</property>
 		<property name="length">
 			<value>2</value>
+		</property>
+		<property name="maxVoices">
+			<value>1</value>
 		</property>
 		<property name="volume">
 			<value>4</value>
@@ -1641,6 +1659,9 @@
 		<property name="length">
 			<value>2</value>
 		</property>
+		<property name="maxVoices">
+			<value>1</value>
+		</property>
 		<relationship name="event">
 			<destination>{c357dcb3-d6c8-4bdb-bd75-d6768edf7faf}</destination>
 		</relationship>
@@ -1651,6 +1672,9 @@
 		</property>
 		<property name="length">
 			<value>2.0625</value>
+		</property>
+		<property name="maxVoices">
+			<value>1</value>
 		</property>
 		<property name="volume">
 			<value>3</value>
@@ -1741,8 +1765,11 @@
 		<property name="length">
 			<value>2.0625</value>
 		</property>
+		<property name="maxVoices">
+			<value>1</value>
+		</property>
 		<property name="volume">
-			<value>-1</value>
+			<value>-1.60000002</value>
 		</property>
 		<relationship name="event">
 			<destination>{584defc5-06fe-404c-90ee-a3133c2f3150}</destination>
@@ -3482,9 +3509,6 @@
 		</property>
 	</object>
 	<object class="EventMixerGroup" id="{b6bdbdc2-3d0d-4eb9-983e-28c5b1e3309a}">
-		<property name="volume">
-			<value>1</value>
-		</property>
 		<property name="name">
 			<value>TRANS HUB to M</value>
 		</property>
